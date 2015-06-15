@@ -7,7 +7,6 @@
 <link href="css/modal.css" type="text/css" rel="stylesheet">
 
 <title>Сайт компании</title>
-
 </head>
 <body>
 
